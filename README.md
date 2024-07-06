@@ -8,4 +8,4 @@ It is recomended that you have at least a basic understanding of computers and e
 To get started clone the repositery by opening a terminal and running: 
 `git clone https://github.com/ToBlocky2/model-rail-toolkit.git
 cd main-model-rail-toolkit`
-Thean follow gides on the website for getting started.
+Thean follow gides on [this website](https://toblocky2.github.io/model-rail-toolkit/) for getting started.
